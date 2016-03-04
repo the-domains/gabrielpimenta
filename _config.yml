@@ -1,0 +1,28 @@
+name: gabrielpimenta
+favicon: null
+layout_spectrum: 0.5489203485194594
+typography_spectrum: 0.6364980204962194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.732414219295606
+  lightness: 0.44355862168595195
+  saturation: 0.334781315876171
+  rhythmicContrast: 0.5190077733714134
+purpose: []
